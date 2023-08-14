@@ -79,7 +79,7 @@ export default {
 .category-page {
     margin-top: 5%;
     width: 100%;
-    height: 100%;
+    height: 100vh;
     overflow: auto;
     padding-bottom: 5rem;
     background-color: #333;
